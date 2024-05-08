@@ -15,7 +15,7 @@ To write a program to implement the SVM For Spam Mail Detection.
 5. Print the accuracy and classification report. 
 
 ## Program:
-```
+```python
 /*
 Program to implement the SVM For Spam Mail Detection..
 Developed by: Vasanthamukilan M
